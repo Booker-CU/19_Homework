@@ -1,0 +1,18 @@
+Requirements:
+
+Pip Dependencies
+Web3 - Web3, middleware, Account
+Bit - PrivateKeyTestnet
+Json
+Subprocess
+
+Clone HD-Derive from Github to a folder for your wallet.
+
+Instructions:
+git clone https://github.com/dan-da/hd-wallet-derive
+ cd hd-wallet-derive
+ php -r "readfile('https://getcomposer.org/installer');" | php
+ php composer.phar install
+
+Afterwards, go one level up and run:
+ln -s hd-wallet-derive/hd-wallet-derive.php derive
