@@ -2,5 +2,5 @@
 
 
 BTCTEST Transaction
-![](Images/BTCTEST_send_tx.png)
-![](Images/BTCTEST_send_tx%202.png)
+![](BTCTEST_send_tx.png)
+![](BTCTEST_send_tx%202.png)
